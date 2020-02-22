@@ -1,0 +1,3 @@
+[filesystem "Master.zippyops.com|Oracle Corporation|1.8.0_242|rootfs"]
+	timestampResolution = 2001 microseconds
+	minRacyThreshold = 0 nanoseconds
